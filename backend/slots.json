@@ -1,0 +1,34 @@
+{
+  "slots": [
+    {
+      "id": "slot-0800",
+      "subject": "UCS501",
+      "time": "08:00",
+      "groups": ["3C43", "3C44", "3C45"]
+    },
+    {
+      "id": "slot-0850",
+      "subject": "UCS502",
+      "time": "08:50",
+      "groups": ["3C43", "3C44"]
+    },
+    {
+      "id": "slot-0940",
+      "subject": "UCS503",
+      "time": "09:40",
+      "groups": ["3C43"]
+    },
+    {
+      "id": "slot-1030",
+      "subject": "UCS504",
+      "time": "10:30",
+      "groups": ["3C43","3C44"]
+    },
+    {
+      "id": "slot-1120",
+      "subject": "UCS505",
+      "time": "11:20",
+      "groups": ["3C45"]
+    }
+  ]
+}
