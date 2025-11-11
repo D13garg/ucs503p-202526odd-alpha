@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Flask instance and environment
+instance/
+.env
+*.db
+
+# Node / React
+node_modules/
+dist/
+build/
+.vercel
+# Python caches
+__pycache__/
+*.py[cod]
+# virtualenvs
+.venv/
+venv/
+# other
+*.log
